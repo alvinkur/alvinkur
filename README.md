@@ -64,7 +64,7 @@ I'm **Alvin**, a Computer Science student at **Binus University Malang** with a 
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0a3c,50:4a0e2e,100:1a0000&height=120&section=footer" width="100%"/>
+
 </div>
 
 ---
@@ -72,6 +72,6 @@ I'm **Alvin**, a Computer Science student at **Binus University Malang** with a 
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0a3c,50:4a0e2e,100:1a0000&height=120&section=footer" width="100%"/>
 
 </div>
