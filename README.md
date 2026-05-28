@@ -10,9 +10,6 @@
 
 <br/>
 
-<!-- Cat Animation -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNmbDd3MmJkNm9jbG9jZjBrYWU3Mjc0MjF1NXluZjVpYXRqNGg3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1KYxX4qobbL9UMVxL/giphy.gif" width="400" alt="coding cat"/>
-
 </div>
 
 ---
@@ -55,17 +52,6 @@ I'm **Alvin**, a Computer Science student at **Binus University Malang** with a 
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-
-
-</div>
 
 ---
 
